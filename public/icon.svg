@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#0d0d0d" rx="80"/>
+
+  <!-- BDH stacked vertically on the left -->
+  <text x="28" y="168" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="150" fill="#c8f545">B</text>
+  <text x="28" y="318" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="150" fill="#c8f545">D</text>
+  <text x="28" y="468" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="150" fill="#c8f545">H</text>
+
+  <!-- Orange bolt centered vertically next to BDH (top to bottom of letters = ~40 to 472) -->
+  <path d="M340 40 L295 256 L345 256 L300 472 L415 236 L358 236 L408 40 Z" fill="#f5a623"/>
+</svg>
